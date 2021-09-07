@@ -1,5 +1,5 @@
 # audio-enhancement-pytorch
-Here, i have custimised two different loss functions for ideal ratio mask (IRM) estimation. And I also utilised the MSEloss(from pytorch).
+Here, i have customize two different loss functions for ideal ratio mask (IRM) estimation. And I also utilised the MSEloss(from pytorch).
 
 The two custimised loss function are structured based on the paper from Yan Zhao, Buye Xu, Ritwik Giri, Tao Zhang 'Perceptually Guided Speech Enhancement Using Deep Neural Networks', ICASSP 2018, Calgary, AB, Canada.
 
